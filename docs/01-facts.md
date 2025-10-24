@@ -2,7 +2,7 @@
 
 ## Emails
 
-To: ~Delbert>~Director@MSNSoftware.org
+To: ~Deller>~Director@MSNSoftware.org
 From: ~Eugene>~DirectorEconomicDevelopment@cityofmsn.gov
 
 re: Potential Hit For You
@@ -22,7 +22,7 @@ What are your thoughts?
 ---
 
 To: ~Eugene>~DirectorEconomicDevelopment@cityofmsn.org
-From: ~Delbert>~Director@MSNsoftware.org
+From: ~Deller>~Director@MSNsoftware.org
 
 re: RE: Potential Hit For You
 
@@ -57,13 +57,16 @@ Cultural Fit: Your Okonomiyaki Tots tap into Madison’s love for global fusion 
 ---
 
 ## Parties
-*Armani*: Head chef with 9 years of industry experience; he started in fast food (Culvers) while in high school, then held two jobs as a prep cook at a fast casual (Chipotle) restaurant, and a line cook at a busy local tavern where he prepared a lot of bar food. He now wants to start his own food cart that will operate during lunch and late-night near the local university.
 
-*Beatrice*: Armani's girlfriend. She is a very social media savvy and is a minor food influencer. She runs a food-based TikTok and YouTube channel, and runs local foodie tours on the weekends. She will run the cash register and social media for the company.
-
-*Constance*: is Beatrice's mom. She is investing $40,000 for the food truck and initial operating expenses. Beatrice's mom has no experience in the food industry and will not be involved in the day-to-day business of the truck. She does want to have some control (basically, veto rights) over large purchases and input on big decisions, at least for the first few years of the truck. If they grow, she may be interested in investing more. Her day-job is as a family law attorney and she is very concerned about her daughter's involvement with Armani and keeping business and personal affairs separate.
+|Name|Role|Motivations/Concerns|How Delbert Engages|
+|---|---|---|---|
+|Eugene|Director of Economic Development|City of Madison|Wants to attract and retain innovative food businesses to boost Madison’s economy and cultural appeal.|Collaborate on incentives, permits, and regional growth opportunities|
+|Armani|Head Chef, Founder of Gourmet Tater Tot Cart|Passionate about elevating bar food; wants creative control and a scalable, low-overhead business.|Highlight Madison’s food scene, foot traffic, and potential for culinary innovation.|
+|Beatrice|Social Media Manager, Cashier, Influencer|Wants to grow her personal brand and the cart’s online presence; values authenticity and engagement.|Emphasize Madison’s social media engagement, influencer culture, and opportunities for viral content.|
+|Constance|Investor (Beatrice’s Mom)|Protects her investment and daughter’s interests; wants clear boundaries between business and personal life.|Address risk mitigation, transparency, and structured decision-making to build trust.|
 
 ---
 
 ## Business
 MShN Tots
+
